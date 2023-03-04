@@ -1,5 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Course management system
+
+Store the course list. 
+
+Use `make run` to run the project, and follow the instruction
 
 ## References
 
